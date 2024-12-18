@@ -11,9 +11,9 @@
   "license": "MIT",
   "homepage": "https://www.docuseal.com/docs/embedded",
   "bugs": {
-    "url": "https://github.com/docusealco/docuseal-angular/issues"
+    "url": "https://github.com/floreaadrian/docuseal-angular/issues"
   },
-  "repository": "https://github.com/docusealco/docuseal-angular",
+  "repository": "https://github.com/floreaadrian/docuseal-angular",
   "devDependencies": {
     "@angular-devkit/build-angular": "^13.1.0",
     "@angular-eslint/builder": "13.1.0",
